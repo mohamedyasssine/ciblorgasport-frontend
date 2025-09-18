@@ -1,4 +1,4 @@
-# 🏊 CiblOrgaSport – Championnats d’Europe de Natation 2026
+#  CiblOrgaSport – Championnats d’Europe de Natation 2026
 
 CiblOrgaSport est une application de gestion des **Championnats d’Europe de Natation – Paris 2026**.  
 Elle permet de centraliser la gestion des compétitions, des athlètes, des commissaires, des volontaires et des spectateurs, à travers un **back-office sécurisé** et un **front moderne** accessible en web et mobile.
